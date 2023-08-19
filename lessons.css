@@ -1,0 +1,14 @@
+/* lessons.css */
+
+.lessons {
+  text-align: center; 
+}
+
+.lessons h2 {
+  font-size: 32px;
+}
+
+.lesson-img {
+  width: 300px;
+  border-radius: 10px;
+}

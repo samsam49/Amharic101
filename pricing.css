@@ -1,0 +1,18 @@
+/* pricing.css */
+
+.pricing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    background: #f2f2f2;
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  /* Styling for price, CTA button, etc */

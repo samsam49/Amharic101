@@ -1,0 +1,12 @@
+/* services.css */
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  background: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 10px;
+}
